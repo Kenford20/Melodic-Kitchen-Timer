@@ -1,2 +1,3 @@
 # Melodic-Kitchen-Timer
-TI ARM Cortex microcontroller based project using ARM assembly and C/Embedded C
+Create a kitchen timer that alerts the user when something is complete with a catchy Christmas tune. 
+This project uses a TI ARM Cortex M4 MCU with several peripheral devices: a buzzer, 4 digit 7 segment display, and a knob potentiometer.
